@@ -7,3 +7,6 @@ Following are the awesome laravel blade directives
 ## @fa - add font-awesome icon
 ## @mi - add material icon
 ## @w - Checks if the scripts works till there
+
+
+Contact me @ [LinkedIn](https://www.linkedin.com/in/suman-shresth)
